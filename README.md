@@ -1,5 +1,5 @@
 # memfill Written in C
-Script to fill memory for Cheats / AV bypass / etc
+Script to fill memory for Bypass problems with / AV / Loader / Anticheat / etc
 
 Discord ?Lossie#1767 
 
